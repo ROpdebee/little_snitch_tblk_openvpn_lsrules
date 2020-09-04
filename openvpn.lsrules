@@ -5,38 +5,27 @@
     {
       "action" : "allow",
       "owner" : "system",
-      "process" : "\/Applications\/Tunnelblick.app\/Contents\/Resources\/openvpn\/openvpn-2.3.18-libressl-2.7.1\/openvpn",
-      "remote-domains" : "vpn.ac"
+      "process" : "\/Applications\/Tunnelblick.app\/Contents\/Resources\/openvpn\/openvpn-2.3.18-libressl-2.7.1\/openvpn"
     },
     {
       "action" : "allow",
       "owner" : "system",
-      "process" : "\/Applications\/Tunnelblick.app\/Contents\/Resources\/openvpn\/openvpn-2.4.9-openssl-1.1.1g\/openvpn",
-      "remote-domains" : "vpn.ac"
+      "process" : "\/Applications\/Tunnelblick.app\/Contents\/Resources\/openvpn\/openvpn-2.4.9-openssl-1.1.1g\/openvpn"
     },
     {
       "action" : "allow",
       "owner" : "system",
-      "process" : "\/Applications\/Tunnelblick.app\/Contents\/Resources\/openvpn\/openvpn-2.5_beta1-openssl-1.0.2u\/openvpn",
-      "remote-domains" : "vpn.ac"
+      "process" : "\/Applications\/Tunnelblick.app\/Contents\/Resources\/openvpn\/openvpn-2.4.9-openssl-1.0.2u\/openvpn"
     },
     {
       "action" : "allow",
       "owner" : "system",
-      "process" : "\/Applications\/Tunnelblick.app\/Contents\/Resources\/openvpn\/openvpn-2.4.9-openssl-1.0.2u\/openvpn",
-      "remote-domains" : "vpn.ac"
+      "process" : "\/Applications\/Tunnelblick.app\/Contents\/Resources\/openvpn\/openvpn-2.5_beta3-openssl-1.1.1g\/openvpn"
     },
     {
       "action" : "allow",
       "owner" : "system",
-      "process" : "\/Applications\/Tunnelblick.app\/Contents\/Resources\/openvpn\/openvpn-2.5_beta1-openssl-1.1.1g\/openvpn",
-      "remote-domains" : "vpn.ac"
-    },
-    {
-      "action" : "allow",
-      "owner" : "system",
-      "process" : "\/Applications\/Tunnelblick.app\/Contents\/Resources\/openvpn\/openvpn-2.3.18-openssl-1.0.2u\/openvpn",
-      "remote-domains" : "vpn.ac"
+      "process" : "\/Applications\/Tunnelblick.app\/Contents\/Resources\/openvpn\/openvpn-2.3.18-openssl-1.0.2u\/openvpn"
     },
   ]
 }
