@@ -20,7 +20,7 @@
     {
       "action" : "allow",
       "owner" : "system",
-      "process" : "\/Applications\/Tunnelblick.app\/Contents\/Resources\/openvpn\/openvpn-2.5_rc1-openssl-1.1.1h\/openvpn"
+      "process" : "\/Applications\/Tunnelblick.app\/Contents\/Resources\/openvpn\/openvpn-2.5.0-openssl-1.1.1h\/openvpn"
     },
   ]
 }
