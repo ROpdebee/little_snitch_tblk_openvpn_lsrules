@@ -5,11 +5,6 @@
     {
       "action" : "allow",
       "owner" : "system",
-      "process" : "\/Applications\/Tunnelblick.app\/Contents\/Resources\/openvpn\/openvpn-2.4.9-openssl-1.1.1h\/openvpn"
-    },
-    {
-      "action" : "allow",
-      "owner" : "system",
       "process" : "\/Applications\/Tunnelblick.app\/Contents\/Resources\/openvpn\/openvpn-2.3.18-libressl-2.7.1\/openvpn"
     },
     {
@@ -20,7 +15,12 @@
     {
       "action" : "allow",
       "owner" : "system",
-      "process" : "\/Applications\/Tunnelblick.app\/Contents\/Resources\/openvpn\/openvpn-2.5.0-openssl-1.1.1h\/openvpn"
+      "process" : "\/Applications\/Tunnelblick.app\/Contents\/Resources\/openvpn\/openvpn-2.4.10-openssl-1.1.1j\/openvpn"
+    },
+    {
+      "action" : "allow",
+      "owner" : "system",
+      "process" : "\/Applications\/Tunnelblick.app\/Contents\/Resources\/openvpn\/openvpn-2.5.0-openssl-1.1.1j\/openvpn"
     },
   ]
 }
